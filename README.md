@@ -1,5 +1,5 @@
 <h1>Code A Hunt 24Hrs Hackthon</h1>
-<b>Team Code CB49</b>
+<b>Team Code CB49\n</b>
 <p>Nikhil Kumar Singh</p>
 <p>Prakhar Soni</p>
 <p>Aditiya</p>
