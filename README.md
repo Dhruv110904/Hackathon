@@ -1,4 +1,4 @@
-<h1>Code A Hunt 24Hrs Hackthon</h1>
+<h1>Code A Haunt 24Hrs Hackthon</h1>
 <p><b>Team Code CB49</b></p>
 <p>CBP14 Food Waste Reduction Solution</p>
 <p>Nikhil Kumar Singh</p>
