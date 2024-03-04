@@ -3,7 +3,7 @@
 <p>CBP14 Food Waste Reduction Solution</p>
 <p>Nikhil Kumar Singh</p>
 <p>Prakhar Soni</p>
-<p>Aditiya</p>
+<p>Aditya</p>
 <p>Vishnu</p>
 <p>Dhruv</p>
 <i>Date:29-02-2024</i>
